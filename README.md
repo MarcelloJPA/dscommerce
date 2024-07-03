@@ -2,14 +2,14 @@
 
 ## Conteúdo estudado até o momento
 
-1. Componentes e injeção de dependência
+### 1. Componentes e injeção de dependência
    - Sistema e componentes
    - Inversão de controle e injeção de dependência  
-2. Modelo de Domínio e ORM
+### 2. Modelo de Domínio e ORM
    - Entidades e Valor de Objetos: Um-para-Um (One-to-One), Um-para-Muitos (One-to-Many), Muitos-para-Muitos (Many-to-Many)
    - Análise e Design de Domínio: Técnicas para identificar e definir entidades e suas interações.
    - Conceitos básicos de como os objetos do modelo de domínio são persistidos em um banco de dados relacional.
-3. API REST, camadas, CRUD, exceções, validações
+### 3. API REST, camadas, CRUD, exceções, validações
    - Criação de Endpoints REST
    - DTO(Objeto de Transferência de Dados)
    - Métodos HTTP: Utilização de métodos como GET, POST, PUT, DELETE
